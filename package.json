@@ -1,5 +1,5 @@
 {
-  "name": "readbot",
+  "name": "yunqi",
   "version": "0.0.1",
   "description": "This is a bot to help a book group to sort and send the sorted book for their Kindle",
   "main": "bot.js",
