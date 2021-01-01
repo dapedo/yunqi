@@ -1,0 +1,15 @@
+{
+  "name": "readbot",
+  "version": "0.0.1",
+  "description": "This is a bot to help a book group to sort and send the sorted book for their Kindle",
+  "main": "bot.js",
+  "author": "dapedo",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  }
+}
