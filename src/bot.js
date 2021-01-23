@@ -6,7 +6,7 @@ const client = new Discord.Client()
 client.commands = new Discord.Collection()
 
 // List variables
-let list = []
+let list = ['oi', 'alou', 'ola', 'aloha']
 module.exports = { list }
 
 // Puts all the files in commands in a Array
